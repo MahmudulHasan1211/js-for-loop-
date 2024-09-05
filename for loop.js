@@ -1,3 +1,5 @@
+// simple use of for loop
+
 // for loop 
 
 for (let num = 1; num <= 5 ; num++){
@@ -9,7 +11,7 @@ for (let i = 0; i<=20; i=i+2){
     console.log('even number:', i)
 }
 
-// odd number print using for loop 
+// odd numbers print using for loop 
 for (let i = 1; i < 20; i=i+2){
     console.log('odd number:', i)
 }
